@@ -2,6 +2,7 @@
 <h3 align="center">A Final Year IT Undergraduate</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ayushakash990&label=Profile%20views&color=0e75b6&style=flat" alt="ayushakash990" /> </p>
+
 - 🌱 I’m currently learning **ML,React Node js**
 
 - 📧 Reach me at [ayushakash990@gmail.com](ayushakash990@gmail.com)
