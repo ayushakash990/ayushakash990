@@ -23,7 +23,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="left">
 <a href="https://github.com/ayushakash990">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=ayushakash990&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
+  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=ayushakash990&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
   <hr>
 </a>
 </p>
