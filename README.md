@@ -5,7 +5,7 @@
 <img align="right" alt="GIF" width="280px" src="https://github.com/ayushakash990/ayushakash990/blob/main/coding%20gif.gif"/>
 
 
-- 🌱 I’m currently learning **ML, React Node js**
+- 🌱 I’m currently learning **React Node js**
 
 - 📧 Reach me at [ayushakash990@gmail.com](ayushakash990@gmail.com)
 
