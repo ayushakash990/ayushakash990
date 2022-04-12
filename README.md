@@ -1,8 +1,7 @@
 <h1 align="center">Hey 👋 I am Ayush Akash</h1>
 <h3 align="center">A Final Year IT Undergraduate</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ayushakash990&label=Profile%20views&color=0e75b6&style=flat" alt="ayushakash990" /> </p>
-<img align="right" alt="GIF" width="280px" src="https://github.com/ayushakash990/ayushakash990/blob/main/coding%20gif.gif"/>
+
 
 
 - 🌱 I’m currently learning **React Node js**
