@@ -1,10 +1,7 @@
 <h1 align="center">Hey 👋 I am Ayush Akash</h1>
-<h3 align="center">A Final Year IT Undergraduate</h3>
+<h3 align="center">IT Undergraduate</h3>
 
 
-
-
-- 🌱 I’m currently learning **React Node js**
 
 - 📧 Reach me at [ayushakash990@gmail.com](ayushakash990@gmail.com)
 
